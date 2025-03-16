@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "homepage": "https://osnelery.github.io/demo",
   "private": true,
   "dependencies": {
     "@angular/animations": "^19.1.0",
